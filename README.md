@@ -11,7 +11,7 @@ Code in utils.py from [here](https://github.com/marktao99/python/blob/master/CVP
 4. Triangulate 3D points.
 
 
-## From Calibrated Images
+## From Calibrated Images (To-Do)
 
 1. Compute each camera intrinsic matrix K.
 2. Calculate the rotation R and translation t from one image to other. 
